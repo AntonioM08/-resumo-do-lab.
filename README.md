@@ -1,4 +1,4 @@
-# -resumo-do-lab-acessando-Azure
+# resumo-do-lab-acessando-Azure
 
 
 Este repositório contém um resumo das lições aprendidas durante o desenvolvimento do laboratório na DIO.
